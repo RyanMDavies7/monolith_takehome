@@ -1,0 +1,5 @@
+db_name = 'monolith'
+db_user = 'postgres'
+db_password = 'admin'
+db_host = 'localhost'
+db_port = '5432'
